@@ -1,0 +1,37 @@
+p {
+	color: brown;
+	background-color: red;
+}
+
+header {
+	background-color: cadetblue;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 150px;
+	padding-right: 10px;
+
+}
+
+ul {
+	background-color: coral;
+	display: flex;
+	justify-content: flex-end;
+	list-style: none;
+}
+
+ul li {
+	margin-right: 10px;
+}
+
+.header-img{
+	margin-left: 50px;
+	border-radius: 50%;
+	width: 134px;
+	height: 134px;
+}
+.navegation{
+	align-self: flex-end;
+}
+
+
